@@ -1,9 +1,3 @@
-# rooted-education
-ROOTED Education Vertical — Schools, field trips, workforce pipelines, youth programs, trade exposure, and learning experiences.
-
-
----
-
 ## Governance Boundaries
 
 This repository:
@@ -17,3 +11,13 @@ All governance and access control lives in:
 → https://github.com/.../rooted-platform
 
 Any change that attempts to bypass ROOTED governance is invalid by design.
+
+
+---
+
+
+# rooted-education
+ROOTED Education Vertical — Schools, field trips, workforce pipelines, youth programs, trade exposure, and learning experiences.
+
+
+---
